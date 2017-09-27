@@ -35,6 +35,7 @@ disqusShortname = "shortname"
 googleAnalytics = ""
 
 [params]
+favicon = "https://assets-cdn.github.com/favicon.ico"
 
 [params.highlight]
 style = "github"
